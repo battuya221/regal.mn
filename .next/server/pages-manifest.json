@@ -1,0 +1,19 @@
+{
+  "/_app": "pages/_app.js",
+  "/api/hello": "pages/api/hello.js",
+  "/component/HeroSection": "pages/component/HeroSection.html",
+  "/component/footer": "pages/component/footer.html",
+  "/component/header": "pages/component/header.html",
+  "/component/layout": "pages/component/layout.html",
+  "/component/news/items": "pages/component/news/items.html",
+  "/": "pages/index.html",
+  "/news": "pages/news.html",
+  "/_error": "pages/_error.js",
+  "/[slug]": "pages/[slug].js",
+  "/contact": "pages/contact.js",
+  "/home": "pages/home.js",
+  "/service": "pages/service.js",
+  "/_document": "pages/_document.js",
+  "/about": "pages/about.js",
+  "/404": "pages/404.html"
+}
